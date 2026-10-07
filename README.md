@@ -8,3 +8,5 @@
 ### 4.  Both use same HTTP and return JSON.
 
 ### 5.  In the frontend we can see the data, backend we can't see that, we can see only results..
+
+<img width="784" height="896" alt="image" src="https://github.com/user-attachments/assets/b11f61ce-7023-435a-aa17-a244498de6a9" />
