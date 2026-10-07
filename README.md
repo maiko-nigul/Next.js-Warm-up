@@ -7,4 +7,4 @@
 
 ### 4.  Both use same HTTP and return JSON.
 
-### 5.  In the frontend we can see the data, backend we can't see that, we can see only results.
+### 5.  In the frontend we can see the data, backend we can't see that, we can see only results..
